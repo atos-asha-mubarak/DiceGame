@@ -1,0 +1,27 @@
+D:\Study meterials\SUMMER SEMESTER\C#\my projects\Dice_Game4\Dice_Game4\bin\Debug\Dice_Game4.exe.config
+D:\Study meterials\SUMMER SEMESTER\C#\my projects\Dice_Game4\Dice_Game4\bin\Debug\Dice_Game4.exe
+D:\Study meterials\SUMMER SEMESTER\C#\my projects\Dice_Game4\Dice_Game4\bin\Debug\Dice_Game4.pdb
+D:\Study meterials\SUMMER SEMESTER\C#\my projects\Dice_Game4\Dice_Game4\obj\Debug\Dice_Game4.csprojResolveAssemblyReference.cache
+D:\Study meterials\SUMMER SEMESTER\C#\my projects\Dice_Game4\Dice_Game4\obj\Debug\Dice_Game4.Properties.Resources.resources
+D:\Study meterials\SUMMER SEMESTER\C#\my projects\Dice_Game4\Dice_Game4\obj\Debug\Dice_Game4.csproj.GenerateResource.Cache
+D:\Study meterials\SUMMER SEMESTER\C#\my projects\Dice_Game4\Dice_Game4\obj\Debug\Dice_Game4.exe
+D:\Study meterials\SUMMER SEMESTER\C#\my projects\Dice_Game4\Dice_Game4\obj\Debug\Dice_Game4.pdb
+D:\Study meterials\SUMMER SEMESTER\C#\my projects\Dice_Game4\Dice_Game4\obj\Debug\Dice_Game4.Form1_load.resources
+C:\Users\Asha\Desktop\MY  Pojects\Dice_Game in c#\Dice_Game4\bin\Debug\Dice_Game4.exe.config
+C:\Users\Asha\Desktop\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.exe
+C:\Users\Asha\Desktop\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.pdb
+C:\Users\Asha\Desktop\MY  Pojects\Dice_Game in c#\Dice_Game4\bin\Debug\Dice_Game4.exe
+C:\Users\Asha\Desktop\MY  Pojects\Dice_Game in c#\Dice_Game4\bin\Debug\Dice_Game4.pdb
+C:\Users\Asha\Desktop\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.csprojResolveAssemblyReference.cache
+C:\Users\Asha\Desktop\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.Form1_load.resources
+C:\Users\Asha\Desktop\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.Properties.Resources.resources
+C:\Users\Asha\Desktop\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.csproj.GenerateResource.Cache
+D:\Study meterials\SUMMER SEMESTER\MY  Pojects\Dice_Game in c#\Dice_Game4\bin\Debug\Dice_Game4.exe.config
+D:\Study meterials\SUMMER SEMESTER\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.exe
+D:\Study meterials\SUMMER SEMESTER\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.pdb
+D:\Study meterials\SUMMER SEMESTER\MY  Pojects\Dice_Game in c#\Dice_Game4\bin\Debug\Dice_Game4.exe
+D:\Study meterials\SUMMER SEMESTER\MY  Pojects\Dice_Game in c#\Dice_Game4\bin\Debug\Dice_Game4.pdb
+D:\Study meterials\SUMMER SEMESTER\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.csprojResolveAssemblyReference.cache
+D:\Study meterials\SUMMER SEMESTER\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.Form1_load.resources
+D:\Study meterials\SUMMER SEMESTER\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.Properties.Resources.resources
+D:\Study meterials\SUMMER SEMESTER\MY  Pojects\Dice_Game in c#\Dice_Game4\obj\Debug\Dice_Game4.csproj.GenerateResource.Cache
